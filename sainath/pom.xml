@@ -24,7 +24,7 @@
     <groupId>test1</groupId>
     <artifactId>Maven1</artifactId>
     <version>tinku</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <properties>
         <!-- Maven -->
