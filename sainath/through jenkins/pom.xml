@@ -7,7 +7,7 @@
   <groupId>deployment</groupId>
   <artifactId>throughjenkins</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>war</packaging>
+  
 
   <name>through jenkins</name>
   <!-- FIXME change it to the project's website -->
@@ -50,7 +50,7 @@
           <version>2.22.1</version>
         </plugin>
         <plugin>
-          <artifactId>maven-war-plugin</artifactId>
+          <artifactId>maven-jar-plugin</artifactId>
           <version>3.0.2</version>
         </plugin>
         <plugin>
